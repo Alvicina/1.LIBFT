@@ -8,5 +8,5 @@ There is also a Makefile to make the compilation process of the library easier. 
 In the following pdf you can find the project requirements as specified by 42 campus:
 [README_LIBFT.pdf](https://github.com/Alvicina/LIBFT/files/15310029/README_LIBFT.pdf)
 
-The following snapshot if proof that the project was succesfully done:
+The following snapshot is proof that the project was succesfully done:
 <img width="1033" alt="Captura de pantalla 2024-09-01 a las 19 03 53" src="https://github.com/user-attachments/assets/4742a554-373b-4255-8af7-0983be308cbb">
